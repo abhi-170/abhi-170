@@ -52,6 +52,15 @@
 
 ---
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-170&show_icons=true&theme=tokyonight" height="300px" width="500px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-170&theme=tokyonight" alt="Streak Stats" height="300px" width="500px" />
+</p>
+
+
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-abhinav-7b2a66271)
