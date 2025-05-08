@@ -43,8 +43,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-170&show_icons=true&theme=tokyonight" height="200px" width="auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-170&theme=tokyonight" alt="Streak Stats" height="200px" width="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-170&show_icons=true&theme=tokyonight" height="200px" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-170&theme=tokyonight" alt="Streak Stats" height="200px" width="400px" />
 </p>
 
 
